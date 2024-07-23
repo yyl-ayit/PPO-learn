@@ -11,7 +11,6 @@
 
 * [PyTorch](http://pytorch.org/)
 * [地铁跑酷](https://www.modelscope.cn/datasets/Hook51/subWaySurf/files) 
-———可以在need_Instal_lThe_Package文件夹下，找到安装包
 * [Google Tesseract](https://github.com/tesseract-ocr/tesseract)——参考（http://t.csdnimg.cn/UaFcy）
 * [蓝叠安卓模拟器](https://www.bluestacks.cn/)
 * [adb](https://dl.google.com/android/repository/platform-tools-latest-windows.zip) ——参考(http://t.csdnimg.cn/TWIOO)
@@ -35,6 +34,7 @@ pip install -r requirements.txt
 
 ![Example Image](src/1.png)
 ![Example Image](src/2.png)
+## 推理测试
 ![Example Video](src/output.gif)
 
 
